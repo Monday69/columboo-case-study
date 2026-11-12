@@ -193,4 +193,4 @@ Les captures ont été réalisées sur un projet fictif de trois fichiers (C#, P
 
 ---
 
-**Mattéo Bombrun** · Élève-ingénieur en IA, ESME Paris · [LinkedIn](https://linkedin.com/in/matteo-bombrun) · [GitHub](https://github.com/Monday69)
+**Mattéo Bombrun** · Élève-ingénieur en IA, ESME Paris · [LinkedIn](https://www.linkedin.com/in/matt%C3%A9o-bombrun-b67993257/) · [GitHub](https://github.com/Monday69)
